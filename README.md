@@ -4,3 +4,7 @@ My name is Priyadarshini, and I am a Computer Science Engineering student. This 
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+
+## Projects
+- **Student Record System**: A project built using Python to manage student data.
+-
